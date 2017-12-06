@@ -1,0 +1,145 @@
+    1  cd ..
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd hello
+    6  ls
+    7  cd ubuntu
+    8  ls
+    9  cd workspace
+   10  cd .
+   11  cd ..
+   12  cd workspace
+   13  git checkout master
+   14  cd
+   15  cd /
+   16  ls
+   17  cd proc
+   18  cd /
+   19  ls
+   20  cd home
+   21  ls
+   22  cd ubuntu
+   23  ls
+   24  cd workspace
+   25  ls
+   26  git checkout master
+   27  mkdir unix101
+   28  ls
+   29  cd unix101/
+   30  mkdir rhode island
+   31  ls
+   32  mkdir rhode\ island
+   33  mkdir "New York"
+   34  ls
+   35  cd rhode island
+   36  ls
+   37  cd ..
+   38  cd rhode\ island/
+   39  pwd
+   40  cd
+   41  ls
+   42  cd workspace
+   43  ls
+   44  cd node_modules
+   45  cd
+   46  ls unixstuff
+   47  ls
+   48  cd workspace
+   49  l
+   50  ls
+   51  ls firstFolder
+   52  ls
+   53  cd hello
+   54  ls
+   55  touch tempt
+   56  ls
+   57  cp tempt science
+   58  ls
+   59  rm science
+   60  ls
+   61  rm tempt
+   62  ls
+   63  clear
+   64  ls
+   65  cat readme
+   66  cat hello.rb
+   67  ls
+   68  tail readme
+   69  less readme
+   70  grep readme readme
+   71  ls
+   72  c9 readme
+   73  ls
+   74  mkdir CareerDevsWnC
+   75  cd CareerDevsWnC
+   76  touch version1
+   77  ls
+   78  c9 version.js
+   79  ..
+   80  mkdir clone
+   81  cd cl
+   82  ls
+   83  git clone git@github.com:SyhanLoc/HotelComplexObjectTemplate.git
+   84  ls
+   85  cd clone
+   86  ls
+   87  git clone git@github.com:SyhanLoc/HotelComplexObjectTemplate.git
+   88  ls
+   89  cd HotelComplexObjectTemplate/
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd ..
+   94  ls
+   95  cd workspace
+   96  ls
+   97  cd ..
+   98  ls
+   99  cd clone
+  100  ls
+  101  cd HotelComplexObjectTemplate/
+  102  ls
+  103  c9 index.html
+  104  ls
+  105  cd scripts
+  106  ls
+  107  c9 index.js
+  108  ls
+  109  cd ..
+  110  ..
+  111  ls
+  112  cd ..
+  113  ls
+  114  mv clone firstworkspace
+  115  ls
+  116  cd workspace
+  117  ls
+  118  cd clone
+  119  cd ..
+  120  ls
+  121  ..
+  122  ls
+  123  cd ubuntu
+  124  ls
+  125  cd workspace
+  126  ls
+  127  cd ..
+  128  ls
+  129  mkdir watchandcode
+  130  ls
+  131  cd watchandcode/
+  132  ls
+  133  mkdir version1
+  134  mkdir version2
+  135  ls
+  136  cd version2
+  137  touch practice2.js
+  138  ls
+  139  node
+  140  clear
+  141  node practice2.js 
+  142  node
+  143  ls
+  144  node practice2.js 
+  145  history > practicehistory.txt
